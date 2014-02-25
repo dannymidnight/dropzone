@@ -9,7 +9,6 @@
     "downloads/dropzone.min.js"
     ],
   "ignore": [
-    "/*",
     "!downloads/*"
   ]
 }
